@@ -1,0 +1,3 @@
+to jest pierwszy wpis do pliku
+to jest drugi wpis do pliku
+
