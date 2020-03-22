@@ -1,1 +1,1 @@
-status 1, początkowy
+status 2, po zmianie
