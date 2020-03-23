@@ -1,0 +1,1 @@
+to jest zawartość pliku branch 2
