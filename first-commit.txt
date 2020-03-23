@@ -2,3 +2,4 @@ to jest pierwszy wpis do pliku
 to jest drugi wpis do pliku
 to jest trzeci wpis do pliku wykonay przez stronę github.com
 a to jest mój czwarty wpis do pliku na github.com
+wersja 1.0
