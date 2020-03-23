@@ -1,1 +1,1 @@
-to jest plik w gałęzi Master
+zawartość pliku D.
