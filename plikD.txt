@@ -1,1 +1,1 @@
-zawartość pliku D.
+nowa zawartość pliku D w branchu test
