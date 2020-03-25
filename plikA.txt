@@ -1,3 +1,4 @@
 zawartość pliku A.
 dodanie nowej funkcjonalności A.1
 dodanie nowej funkcjonalności A.1.1
+szybka naprawa błędu w pliku A.txt na galęzi master
