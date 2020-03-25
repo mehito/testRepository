@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-zawartość pliku A
-dodanie nowej funkcjonalności.
-=======
 zawartość pliku A.
 dodanie nowej funkcjonalności A.1
->>>>>>> ecd4139bdce1836fcc5a9b84cf9b7c40706e6584
