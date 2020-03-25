@@ -1,2 +1,3 @@
 to jest plik  z funkcjonalnością X
 to jest plik  z funkcjonalnością X.0.1
+to jest plik  z funkcjonalnością X.1
