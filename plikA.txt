@@ -1,2 +1,3 @@
 zawartość pliku A.
 dodanie nowej funkcjonalności A.1
+dodanie nowej funkcjonalności A.1.1
